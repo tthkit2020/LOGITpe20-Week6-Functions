@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\bin\Debug\netcoreapp3.1\Params.exe
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\bin\Debug\netcoreapp3.1\Params.deps.json
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\bin\Debug\netcoreapp3.1\Params.dll
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\bin\Debug\netcoreapp3.1\Params.pdb
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.dll
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.pdb
+C:\Users\julia.voronetskaja\source\repos\Week6Functions\Params\obj\Debug\netcoreapp3.1\Params.genruntimeconfig.cache
